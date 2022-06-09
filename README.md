@@ -34,7 +34,7 @@ This dataset contains crimes reported in Baton Rouge city and investigated by th
   <tr>
     <td align="center" width="96">
      <a href="#" target="_blank">
-      <img loading="lazy" src="https://www.pngitem.com/pimgs/m/159-1595932_python-logo-png-transparent-images-logo-transparent-background.png" alt="Google Data studio" width="40" height="40"/> 
+      <img loading="lazy" src="https://www.python.org/static/community_logos/python-logo-master-v3-TM.png" width="40" height="40"/> 
     </a>
     <br/>Python
    </td>
