@@ -16,7 +16,7 @@ You can interact with Live Project by clicking on the link [Live Project Preview
 
 [Architecture](https://github.com/Jaycharole/Crime-Analysis/blob/main/Documentations/City%20Crime%20Analysis%20-%20Architecture.pdf)
 
-[Wire Frame]([https://linktodocumentation](https://github.com/Jaycharole/Crime-Analysis/blob/main/Documentations/City%20Crime%20Wireframe.pdf))
+[Wire Frame](https://github.com/Jaycharole/Crime-Analysis/blob/main/Documentations/City%20Crime%20Wireframe.pdf)
 
 # 🚀 City Crime Analysis
 
