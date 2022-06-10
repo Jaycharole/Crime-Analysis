@@ -73,14 +73,6 @@ This dataset contains crimes reported in Baton Rouge city and investigated by th
 
 If you have any feedback, please reach out to us at jaycharole@gmail.com
 
-## 🚀 Screen Shot
 
-![image](https://user-images.githubusercontent.com/49811782/172941380-2920ae8a-d3a3-4701-8a60-b5b909aeaada.png)
-
-![image](https://user-images.githubusercontent.com/49811782/172941482-cbc874d2-c75f-41f0-a5d7-45b1923c062c.png)
-
-![image](https://user-images.githubusercontent.com/49811782/172941596-1e2f2c76-01b3-4c06-9b42-81c0c1477988.png)
-
-![image](https://user-images.githubusercontent.com/49811782/172941654-ae74eb00-08ac-47cc-9c4a-a5a6d27d7e56.png)
 
 
