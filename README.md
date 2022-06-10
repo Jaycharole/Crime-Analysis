@@ -6,7 +6,7 @@ Before going deep into the project this are some of the documentation which will
 
 You can interact with Live Project by clicking on the link [Live Project Preview](https://linktodocumentation) 
 
-[Project Video](https://linktodocumentation)
+[Project Video](https://youtu.be/wOLvskL5NgM)
 
 [Project Demonstration](https://linktodocumentation)
 
@@ -59,7 +59,15 @@ This dataset contains crimes reported in Baton Rouge city and investigated by th
   </tr>
 </table>
 
+## Working
 
+### Dashboard
+
+![City Crime Dashboard](https://user-images.githubusercontent.com/49811782/173002006-4abe5787-9b47-4bad-be25-c9a7d530e500.gif)
+
+### Exploratory Data Analysis
+
+![City Crime EDA](https://user-images.githubusercontent.com/49811782/173002047-2cf1763c-1a99-4d95-baba-eb2291f9d98f.gif)
 
 ## 🚀 Feedback
 
