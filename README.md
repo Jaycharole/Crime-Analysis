@@ -4,11 +4,11 @@
 
 Before going deep into the project this are some of the documentation which will help for better understanding of the project. 
 
-You can interact with Live Project by clicking on the link [Live Project Preview](https://linktodocumentation) 
+You can interact with Live Project by clicking on the link 
+
+[Live Project Preview](https://public.tableau.com/shared/8PJYJ5CP2?:display_count=n&:origin=viz_share_link) 
 
 [Project Video](https://youtu.be/wOLvskL5NgM)
-
-[Project Demonstration](https://linktodocumentation)
 
 [Project Report](https://github.com/Jaycharole/Crime-Analysis/blob/main/Documentations/City%20Crime%20Report.pdf)
 
